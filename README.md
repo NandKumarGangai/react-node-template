@@ -2,7 +2,7 @@
 This template is created as a starter for React and Node JS full stack projects.
 Specially when you are solving or creating any project for competative challenges or hiring challanges. Setting up project at that time is hectic most of the time.
 This template covers below features to get started immediatedly.  
-**NODE server app:**
+**NODE server app:**  
 **1. Folder structure**
   - Routes
   - Controllers
@@ -11,6 +11,8 @@ This template covers below features to get started immediatedly.
   - database
     - connections
     - models
+
+
 **2. Tach stacks**
   - Express server
   - Basic auth using JSONWEBTOKEN
